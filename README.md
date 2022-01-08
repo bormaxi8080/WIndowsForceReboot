@@ -1,4 +1,4 @@
-# WindowsForceReboot
+# windows-force-reboot
 Force Reboot Windows System
 
 ## WARNING!
